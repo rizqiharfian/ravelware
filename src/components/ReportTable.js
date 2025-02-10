@@ -7,7 +7,6 @@ import { AiOutlineDownload } from "react-icons/ai";
 const reportData = [
   { id: 1, date: "2023-10-18 15:13:17", station: "Station 2", name: "andrew", license: "B 1235 K", code: "20130", fuel: "pertalite", usage: 2, leftover: 150 },
   { id: 2, date: "2023-10-18 15:13:17", station: "Station 1", name: "andrew", license: "B 1234 K", code: "20130", fuel: "pertalite", usage: 5, leftover: 150 },
-  // Tambahkan data sesuai kebutuhan
 ];
 
 function ReportTable() {

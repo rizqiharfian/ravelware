@@ -6,7 +6,7 @@ function DashboardHeader() {
   useEffect(() => {
     const timer = setInterval(() => {
       setCurrentTime(new Date().toLocaleString());
-    }, 1000); // Update setiap detik
+    }, 1000);
     return () => clearInterval(timer);
   }, []);
 
