@@ -13,7 +13,7 @@ function Dashboard() {
   return (
     <div>
       <DashboardHeader />
-      <h2 className="mt-4">Realtime Fuel Tank Status</h2>
+      <h2 className="mt-4 text-center">Realtime Fuel Tank Status</h2>
       <FuelStatusCard />
       <FuelUsageCharts />
     </div>
