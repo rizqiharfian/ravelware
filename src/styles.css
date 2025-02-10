@@ -1,0 +1,10 @@
+.fuel-card {
+    border-radius: 8px;
+    padding: 16px;
+    color: white;
+    margin-bottom: 16px;
+  }
+  .bg-green { background-color: green; }
+  .bg-yellow { background-color: yellow; }
+  .bg-red { background-color: red; }
+  
