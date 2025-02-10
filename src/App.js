@@ -28,7 +28,7 @@ function App() {
         <div className="main-content container-fluid p-4">
           <Routes>
             <Route path="/dashboard" element={<Dashboard />} />
-            <Route path="/reports" element={<ReportTable />} />
+            <Route path="/reports/fuel-transaction-history" element={<ReportTable />} />
           </Routes>
         </div>
       </div>
